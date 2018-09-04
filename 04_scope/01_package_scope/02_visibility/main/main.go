@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/goestoeleven/golangtraining/04_scope/01_package-scope/02_visibility/vis"
+	"udemy/04_scope/01_package_scope/02_visibility/vis"
 )
 
 func main() {
