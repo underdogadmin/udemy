@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+// Person - adding a comment so VS Code doesnt bark at me
 type Person struct {
 	First       string
 	Last        string
